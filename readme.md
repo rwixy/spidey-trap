@@ -1,4 +1,4 @@
-# 🕷️ Spidey CTF Machine
+# 🕷️ Spidey CTF Machine ![Type](https://img.shields.io/badge/Type-CTF-blue)
 
 Spidey is a beginner-to-intermediate vulnerable machine designed to simulate a real-world penetration testing scenario. It focuses on web exploitation, credential discovery, and privilege escalation.
 
@@ -6,7 +6,7 @@ Spidey is a beginner-to-intermediate vulnerable machine designed to simulate a r
 
 ## 🎯 Difficulty
 
-Beginner → Intermediate
+![Difficulty](https://img.shields.io/badge/Difficulty-Beginner--Intermediate-yellow)
 
 ---
 
@@ -44,7 +44,7 @@ Beginner → Intermediate
 
 ## 📥 Download
 
-👉 [Download OVA](PASTE_YOUR_LINK_HERE)
+👉 [Download OVA](https://drive.google.com/file/d/1pUkKq9ovCfP7GYE7fMn-_tx8Gv7a9nge/view?usp=sharing)
 
 ---
 
